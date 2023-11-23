@@ -11,7 +11,8 @@
 
 ****실행 화면**  <br>    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1. 콘솔창**  <br>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**: 메세지가 출력되지 않는 23시부터 6시까지 30분 간격으로 "현재 시간은 메세지를 출력할 시간이 아닙니다." 라는 문구가 출력된다.**  <br>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**: 메세지가 출력되지 않는 23시부터 6시까지 30분 간격으로 "현재 시간은 메세지를 출력할 시간이 아닙니다."**  <br>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**라는 문구가 출력된다.**  <br>  
 ![console](https://github.com/ahyeon-B/Telegram-Bot/assets/110444794/6c1f9482-e8e4-4a21-b34e-16db31add1d1)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2. 텔레그램 봇**  <br> 
